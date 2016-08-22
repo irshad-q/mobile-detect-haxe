@@ -1,0 +1,23 @@
+{
+	"name": "mobile-detect-haxe",
+	"license": "MIT",
+	"classPath": "src",
+	"tags": [
+		"js",
+		"haxe",
+		"mobile-detect-haxe",
+		"mobile-detect",
+		"mobile-detect.js",
+		"extern",
+		"web"
+	],
+	"description": "Externs of mobile-detect.js for Haxe",
+	"contributors": [
+		"irshad-q"
+	],
+	"releasenote": "Intial release",
+	"version": "0.0.1",
+	"url": "https://github.com/irshad-q/mobile-detect-haxe",
+	"dependencies": {
+	}
+}
